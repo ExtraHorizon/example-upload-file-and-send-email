@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <p>Dear $content.first_name,</p>
+
+    <p>A file $content.file_name has been uploaded to Extra Horizon by user $content.file_creator_id</p>
+
+    <p>
+        Kind regards,<br>
+        The team
+    </p>
+</body>
+</html>

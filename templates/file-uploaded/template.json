@@ -1,0 +1,24 @@
+{
+  "schema": {
+    "type": "object",
+    "fields": {
+      "first_name": {
+        "type": "string"
+      },
+      "file_name": {
+        "type": "string"
+      },
+      "file_creator_id": {
+        "type": "string"
+      },
+      "date": {
+        "type": "string"
+      }
+    }
+  },
+  "fields": {
+    "subject": "A file from user $content.file_creator_id has been uploaded"
+  },
+  "description": "Template used to send an analysis email",
+  "name": "file-uploaded"
+}

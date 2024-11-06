@@ -1,0 +1,11 @@
+{
+  "name": "example-upload-file-and-send-email",
+  "version": "1.0.0",
+  "main": "init.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@extrahorizon/javascript-sdk": "^8.4.1",
+    "dotenv": "^16.4.5"
+  }
+}
