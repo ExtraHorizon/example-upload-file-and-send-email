@@ -12,8 +12,8 @@ In this repository is a basic example of how to:
 - Create a copy of the `.example.env` file, rename it to `.env` and fill in the `.env` file with your credentials.
 
 ## Synchonize email templates
-- Run the command `exh sync --templates`, this will synchroize the templates in the `/templates` folder. Please read the [documentation](https://docs.extrahorizon.com/cli/readme/installation) for further information.
+- Run the command `exh sync --templates`, this will synchronize the templates in the `/templates` folder. Please read the [documentation](https://docs.extrahorizon.com/cli/readme/installation) for further information.
 - Run the command `exh templates list`, this will show you a list in your terminal of templates created in your Extra Horizon environment. Please refer to the [documentation](https://docs.extrahorizon.com/cli/commands/templates#listing-templates). for futher information
 
 ## Execution
-- Excecute the command `node uploadFileandSendEmail.js` and this will run the script to upload a file to your Extra Horizon environment and send an email to the email specified in the environment variables.
+- Excecute the command `node uploadFileAndSendEmail.js` and this will run the script to upload a file to your Extra Horizon environment and send an email to the email specified in the environment variables.

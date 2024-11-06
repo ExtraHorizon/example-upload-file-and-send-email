@@ -10,9 +10,6 @@
       },
       "file_creator_id": {
         "type": "string"
-      },
-      "date": {
-        "type": "string"
       }
     }
   },
