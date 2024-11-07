@@ -1,7 +1,7 @@
 from requests_oauthlib import OAuth1Session
 
 # pip3 install requests_oauthlib
-# python3 uploadFileAndSendEmail.py
+# python3 sendEmail.py
 
 o_auth1_client = OAuth1Session(
   client_key="YOUR_CONSUMER_KEY",
